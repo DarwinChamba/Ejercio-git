@@ -102,3 +102,5 @@ void scrollPantalla(){
 
 }
 
+//muestro la onfiguracion de una pantalla lcd uso de arduino
+
